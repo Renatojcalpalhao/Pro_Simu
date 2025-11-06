@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<persistentProperty key="gaml.main" value="/Pro_Simu/Pro_Simu.gaml"/>
+
+
 	<name>Pro_Simu</name>
 	<comment></comment>
 	<projects>
@@ -15,11 +18,4 @@
 		<nature>org.eclipse.xtext.ui.shared.xtextNature</nature>
 		<nature>gama.ui.application.gamaNature</nature>
 	</natures>
-	<linkedResources>
-		<link>
-			<name>models/DengueSim.gaml</name>
-			<type>1</type>
-			<location>C:/Users/renat/Gama_Workspace/DengueSimu/models/DengueSim.gaml</location>
-		</link>
-	</linkedResources>
 </projectDescription>

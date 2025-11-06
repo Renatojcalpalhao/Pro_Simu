@@ -1,4 +1,5 @@
-// Conteúdo FINAL e LIMPO para o ficheiro: agents/area_risco.gaml
+model dummy_model
+
 
 species area_risco {
 
